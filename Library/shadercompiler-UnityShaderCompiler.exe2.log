@@ -1,0 +1,6 @@
+Base path: D:/Programs/uni/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=9 insize=1435 outsize=5197 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=3273 outsize=6733 ok=1
